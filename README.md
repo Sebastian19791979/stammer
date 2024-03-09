@@ -1,6 +1,6 @@
 # STeAMed haM-ifiER (STAMMER)
 
-If you re-arranged the frames of [Steamed Hams](https://www.youtube.com/watch?v=4jXEuIHY9ic) in the right order, could you produce the [FitnessGram Pacer Test](https://www.youtube.com/watch?v=Y82jDHRrswc)?
+If you re-arranged the frames of [the amazingdigitalcircus](https://youtu.be/HwAPLk_sQ3w?si=yUn4MVxugadmT_qu) in the right order, could you produce the [FitnessGram Pacer Test](https://youtu.be/FkXhKu80CWU?si=WTRdICGktrOQZJop)?
 
 https://github.com/ArdenButterfield/stammer/assets/29317321/0f69d48b-5f99-4c8e-b9a2-8b4c83c1e19d
 
